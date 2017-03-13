@@ -10,11 +10,11 @@ export class NavMenuComponent implements OnInit {
     myArray = [
     {
       id: 1,
-      txt: 'a'
+   
     },
     {
       id: 2,
-      txt: 'b'
+     
     },
     {
       id: 3
