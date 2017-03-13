@@ -10,17 +10,19 @@ export class NavMenuComponent implements OnInit {
     myArray = [
     {
       id: 1,
-   
+      txt: 'Home'
     },
     {
       id: 2,
-     
+     txt: 'Store'
     },
     {
-      id: 3
+      id: 3,
+      txt: 'About Us'
     },
     {
-      id: 4
+      id: 4,
+      txt: 'Contact Us'
     }
   ];
   constructor() { }

@@ -1,13 +1,8 @@
-
-
-<div class='box'>
-
-  {{ item.id }} 
-
-  <span *ngIf="item.txt">
-  <input [value]=item.txt>
-   </span>
-  
-  <button (click)="myFunc()">button</button>
+<div class="box">
+ 
+    {{item.id}}
+    <span (click) = "myFunc()">
+  {{item.txt}} 
+</span>
 
 </div>

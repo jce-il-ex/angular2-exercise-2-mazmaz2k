@@ -1,12 +1,10 @@
 .box {
     width: 100px;
-    padding: 2%;
     margin: 2%;
-    text-align: center;
-    min-height: 100px;
-    line-height: 100px;
+    font-family: fantasy;
+    font-size: 50;
+padding: 10px;
     background-color: #e2e2e2;
-   
-    float: right;
+    float: left;
    
 }

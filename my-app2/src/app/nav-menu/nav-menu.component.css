@@ -1,15 +1,9 @@
 .bar {
+     background-color: black;
+     
 
-        display: inline-block;
-        margin: 2%;
- width: 50%;
-    
-        background-color: black;
-       
 }
+.bar2 {
+        background-color: black;
 
-.bar{
-        padding: 3px;
-           display: table;
-    
 }
